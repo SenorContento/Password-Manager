@@ -1,0 +1,14 @@
+{
+    "Name": "Password Manager",
+    "Author": "Brandon Gomez",
+    "Company List": [
+        "eBay",
+        "Paypal",
+        "Google"
+    ],
+    "List2": [
+        0,
+        true,
+        "fake"
+    ]
+}
